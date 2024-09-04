@@ -11,7 +11,7 @@ labels:
 summary: "A typing defense game made for the Pirate Software Game Jam 15."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/Screenshot 2024-09-04 100752.png">
 
 Incantation is a game I made with some friends for the "Pirate Software Game Jam 15." 
 The theme of the game was "Shadows and Alchemy," so we made a game where you combine augments and elements to spells for the alchemy theme, while having shadow creatures attack for the shadow theme. So the goal of the game is to type different spells and combine them with elements and augments to last as long as possible.
