@@ -20,4 +20,4 @@ The theme of the game was "Shadows and Alchemy," so we made a game where you com
 
 This project gave me experience on effectively communicating and working with a team, which was important in order to ensure we meet our deadline. It also gave me the experience of learning gdscript and just the general game design process on creating a game from start to finish.
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Game: <a href="https://scissorsbox.itch.io/incantation"><i class="large github icon "></i>jogarces/Incantation</a>
