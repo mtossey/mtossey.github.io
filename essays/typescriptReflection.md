@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Games - Creating Legends and Uniting People"
+title: "Typescript Reflection"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-04
 published: true
