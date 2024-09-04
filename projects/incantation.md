@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/Screenshot 2024-09-03 215231.png
 title: "Incantation"
 date: 2024-07-31
 published: true
