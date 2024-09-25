@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Smart Questions Analysis"
+title: "Why Coding Standards are Important"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-25
 published: true
