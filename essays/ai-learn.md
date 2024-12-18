@@ -35,7 +35,7 @@ Writing code
 I try to avoid this, but as a last resort I ask ChatGPT to write code. This is because I think it is important to rely on your own skill first in order to practice and get a job in the future.
 Documenting code
 I have used it to keep records of past codes so I can ask for it if I mess up, but I have stopped doing this after the use of vscode and github desktop.
-Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”
+Quality assurance e.g. “What’s wrong with this code <code here>" or “Fix the ESLint errors in <code here>”
 
 I use this all the time when I read an error and can not quite solve it, but it is important when doing this to understand how it fixes the error, so you can solve the error yourself when you encounter it again.
 Other uses in ICS 314 not listed
