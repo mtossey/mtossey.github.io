@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "How AI Helps Learnt"
+title: "How AI Helps Learn"
 # All dates must be YYYY-MM-DD format!
 date: 2024-12-17
 published: true
