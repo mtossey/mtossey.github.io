@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Why Coding Standards are Important"
+title: "Reflection on Software Engineering in ICS 314"
 # All dates must be YYYY-MM-DD format!
 date: 2024-12-20
 published: true
