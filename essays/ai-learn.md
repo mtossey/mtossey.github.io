@@ -12,7 +12,7 @@ labels:
 ## AI in Software Engineering
 As times have evolved AI has become more present in software engineering and coding than ever before. AI can be used to cheat by writing essays, doing quizzes, or designing whole programs for someone; however, if used smartly AI can be a great tool to assist one in learning. For software engineering in particular, AI can help one become more familiar with different UI frameworks or putting in self-made code in order to fix errors that one can not solve themself. It can even be beneficial to put in code with no errors because one might find ways to make their code more efficient and readable. Personally, the AI tool I have made use of the most in this course is ChatGPT.
 
-# Using AI Responsibly
+## Using AI Responsibly
 Experience WODs e.g. E18
 For experience WODs I barely used AI and if I did it was really small. This is because after attempting it myself, there was already a solution posted by one of the instructors that I could watch. I did sometimes post the code I made after the WOD to find out if there was a better solution and ChatGPT sometimes gave me a solution that I had no thought of.
 In-class Practice WODs
