@@ -20,9 +20,8 @@ This website works by having the user signup with their name, discord, and games
 As far as what I was responsible for on the project, I mainly handled frontend, but did a bit of backend work. I assisted in creating the home page, profile, and the main page I was responsible for was the schedule page. This required one to be able to select a day, and from there select available times to assign to both that date/user in the database. From this project, I learned hwo to more efficiently deal with backend work, as well as more effectively work as a team because most projects up to this point have been solo.
 
 ## Screenshots
-image: img/Screenshot 2024-12-20 212750.png
-
-image: img/Screenshot 2024-12-20 214253.png
+![iCompanion Screenshot](img/Screenshot 2024-12-20 212750.png)
+![iCompanion Screenshot2](img/Screenshot 2024-12-20 214253.png)
 
 
 
