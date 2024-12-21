@@ -4,7 +4,7 @@ type: essay
 title: "Why Coding Standards are Important"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-25
-published: true
+published: false
 labels:
   - Coding standards
   - ESLint
