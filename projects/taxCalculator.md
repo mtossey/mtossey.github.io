@@ -1,17 +1,23 @@
 ---
 layout: project
 type: project
-image: img/Screenshot 2024-09-04 105828.png
-title: "data storage"
-date: 2024-02-19
+image: img/Screenshot 2024-12-20 212750.png
+title: "iCompanion"
+date: 2024-12-17
 published: true
 labels:
-  - C++
+  - VScode
   - GitHub
-summary: "A program that calculates your taxes"
+  - Typescript
+  - 
+summary: "A website for students to make new friends created during ICS314"
 ---
 
+##Overview
+This website works by having the user signup with their name, discord, and games they play. From there, they are able to select available times when the iLab is open and are matched with other people who share both similar available times and games they play. There is also some extra pages to show available games, edit your profile, and see upcoming events. 
 
-Through working on this project, I learned a great deal about basic programming concepts like input validation, loops, and arithmetic operations. I gained experience in using both for and while loops to iterate through user input, ensuring the program could handle multiple jobs dynamically. The for-loop structure allowed me to ask the user for the income of each job and compute taxes for each one. I also learned the importance of using while-loops for input validation, ensuring that invalid inputs, like negative income, are handled properly and the program remains robust.
+##What I Learned
+As far as what I was responsible for on the project, I mainly handled frontend, but did a bit of backend work. I assisted in creating the home page, profile, and the main page I was responsible for was the schedule page. This required one to be able to select a day, and from there select available times to assign to both that date/user in the database. From this project, I learned hwo to more efficiently deal with backend work, as well as more effectively work as a team because most projects up to this point have been solo.
 
-I also gained a deeper understanding of how to perform calculations using variables and apply tax rates across multiple data points. I worked with variables for federal and state taxes and practiced managing cumulative values like total income, federal tax, and state tax. Additionally, formatting output to display clear information about taxes for each job helped me see the value of providing a user-friendly interface in a console-based program. This project showed me the value of careful planning and validating user input to avoid errors and ensure reliable program behavior.
+
+## Link [GitHub Repository](https://github.com/i-companion)
