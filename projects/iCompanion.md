@@ -20,10 +20,9 @@ This website works by having the user signup with their name, discord, and games
 As far as what I was responsible for on the project, I mainly handled frontend, but did a bit of backend work. I assisted in creating the home page, profile, and the main page I was responsible for was the schedule page. This required one to be able to select a day, and from there select available times to assign to both that date/user in the database. From this project, I learned hwo to more efficiently deal with backend work, as well as more effectively work as a team because most projects up to this point have been solo.
 
 ## Screenshots
-![iCompanion Screenshot](img/Screenshot 2024-12-20 212750.png)
-![iCompanion Screenshot2](img/Screenshot 2024-12-20 214253.png)
+![image](https://github.com/user-attachments/assets/02e1f3c0-a906-4d38-b708-39a0487be4c1)
 
-
+![image](https://github.com/user-attachments/assets/4a0f1eae-cb0a-4133-9f4b-bf2b25fc2445)
 
 ## Link 
 [GitHub Repository](https://github.com/i-companion)
