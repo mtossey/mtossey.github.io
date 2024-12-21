@@ -9,8 +9,10 @@ labels:
   - AI
   - ChatGPT
 ---
-
+## AI in Software Engineering
 As times have evolved AI has become more present in software engineering and coding than ever before. AI can be used to cheat by writing essays, doing quizzes, or designing whole programs for someone; however, if used smartly AI can be a great tool to assist one in learning. For software engineering in particular, AI can help one become more familiar with different UI frameworks or putting in self-made code in order to fix errors that one can not solve themself. It can even be beneficial to put in code with no errors because one might find ways to make their code more efficient and readable. Personally, the AI tool I have made use of the most in this course is ChatGPT.
+
+# Using AI Responsibly
 Experience WODs e.g. E18
 For experience WODs I barely used AI and if I did it was really small. This is because after attempting it myself, there was already a solution posted by one of the instructors that I could watch. I did sometimes post the code I made after the WOD to find out if there was a better solution and ChatGPT sometimes gave me a solution that I had no thought of.
 In-class Practice WODs
@@ -40,8 +42,9 @@ Quality assurance e.g. “What’s wrong with this code <code here>" or “Fix t
 I use this all the time when I read an error and can not quite solve it, but it is important when doing this to understand how it fixes the error, so you can solve the error yourself when you encounter it again.
 Other uses in ICS 314 not listed
 I can not think of any other way to use AI in ICS 314, as I think they were all covered in the above examples.
-Before this course, I think I overused AI and it definitely hindered my learning. Luckily, I came into this course with a better understanding and it has enhanced my learning experience. I think it can be a trap for some people who rely on it too much, but when used the right way, it is one of the most valuable tools for anybody looking to learn something. With AI, I was able to learn and grasp concepts at a speed I have never been able to before.
 
+## The Future of AI in Education
+Before this course, I think I overused AI and it definitely hindered my learning. Luckily, I came into this course with a better understanding and it has enhanced my learning experience. I think it can be a trap for some people who rely on it too much, but when used the right way, it is one of the most valuable tools for anybody looking to learn something. With AI, I was able to learn and grasp concepts at a speed I have never been able to before.
 AI’s practical applications are being seen all over right now. Of course learning or studying new topics, but also cooking, security, and more. AI probably is not the best at addressing new software engineering challenges, but is great at teaching those who do not know problems that have been solved prior. As far as limitations go with AI in this course, I believe that I have not had any major limitations I can think of because it is just amazing and helped me an incredible amount.
 As far as software engineering goes, I believe that the AI enhanced course far surpasses the traditional teaching methods. The danger is some students may be over reliant on it, but I believe most students with AIcan learn knowledge, retain it, and develop new skills faster than ever. As far as engagement goes, I do not believe one offers significantly more engagement than the other.
 The future of AI is limitless. ChatGPT-5 is already being made, and I believe that nobody truly knows what it could do for the future of software engineering. It has already done so much, and I believe it will make software engineering surpass whatever limits it has.
