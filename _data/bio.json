@@ -7,53 +7,138 @@
     "phone": "808-308-3642",
     "website": "https://mtossey.github.io",
     "summary": "I am a Computer Science graduate of the University of Hawaii at Manoa (B.S., December 2025) and currently work as an IT Support Engineer at Kukui IT in Honolulu. I enjoy turning messy data into clear answers: my project MainStats uses Python and SQL to collect, store, and analyze over 12,000 records, with a website for exploring the results. I am looking for opportunities in data analysis and software development. Outside of work I make games for game jams and hold a B.A. in Japanese.",
-    "location": { "address": "", "postalCode": "96701", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": {
+      "address": "",
+      "postalCode": "96797",
+      "city": "Waipahu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
     "profiles": [
-      { "network": "github", "username": "mtossey", "url": "http://github.com/mtossey" },
-      { "network": "linkedin", "username": "mtossey", "url": "https://www.linkedin.com/in/micah-tossey-264351265/" }
+      {
+        "network": "github",
+        "username": "mtossey",
+        "url": "https://github.com/mtossey"
+      },
+      {
+        "network": "linkedin",
+        "username": "mtossey",
+        "url": "https://www.linkedin.com/in/micah-tossey-264351265/"
+      }
     ]
   },
   "interests": [
-    { "name": "Game Design" },
-    { "name": "Cyber Security" },
-    { "name": "AI Research" },
-    { "name": "Japanese Language and Culture" }
+    {
+      "name": "Data Analysis"
+    },
+    {
+      "name": "Game Design"
+    },
+    {
+      "name": "Cyber Security"
+    },
+    {
+      "name": "AI Research"
+    },
+    {
+      "name": "Japanese Language and Culture"
+    }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "GDscript" ]
+      "name": "Languages",
+      "keywords": [
+        "Python",
+        "SQL",
+        "C",
+        "C++",
+        "Java",
+        "JavaScript",
+        "GDScript"
+      ]
     },
-  ],
-  "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science",
-      "studyType": "B.S.",
-      "startDate": "2018-08-15",
-      "endDate": "Present",
-      "courses": [
+      "name": "Data and Databases",
+      "keywords": [
+        "SQLite",
+        "Data Pipelines",
+        "SQL Reporting",
+        "Data Integrity Checks"
+      ]
+    },
+    {
+      "name": "Game Development",
+      "keywords": [
+        "Unity",
+        "Godot"
+      ]
+    },
+    {
+      "name": "IT and Systems",
+      "keywords": [
+        "Windows",
+        "Linux",
+        "Microsoft 365",
+        "Networking (TCP/IP, DNS, DHCP)"
       ]
     }
   ],
+  "education": [
+    {
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2018-08-15",
+      "endDate": "2025-12-20",
+      "courses": []
+    },
+    {
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Japanese",
+      "studyType": "B.A.",
+      "startDate": "2018-08-15",
+      "endDate": "2022-05-14",
+      "courses": []
+    }
+  ],
   "work": [
+    {
+      "company": "Kukui IT",
+      "position": "IT Support Engineer",
+      "website": "",
+      "startDate": "2026-06-01",
+      "endDate": "Present",
+      "summary": "Provide IT support for staff across multiple business clients.",
+      "highlights": [
+        "Troubleshoot hardware, software, and network issues (TCP/IP, DNS, DHCP, Wi-Fi), escalating to vendors or senior staff when needed.",
+        "Manage Microsoft 365 account access and sign in issues, documenting each resolution so fixes are consistent and repeatable.",
+        "Install, configure, deploy, and maintain desktops, laptops, printers, and other network connected devices."
+      ]
+    },
+    {
+      "company": "YMCA",
+      "position": "Language Arts Tutor",
+      "website": "",
+      "startDate": "2026-03-01",
+      "endDate": "2026-07-31",
+      "summary": "Tutored students of varying ages and skill levels in language arts.",
+      "highlights": [
+        "Explained concepts patiently and adapted lessons in real time to each student's needs."
+      ]
+    },
     {
       "company": "HiEmployment",
       "position": "Substitute Teacher",
       "website": "",
       "startDate": "2023-03-01",
       "endDate": "2024-01-24",
-      "summary": "taught various subjects in elementary - highschool level.",
+      "summary": "Taught various subjects at the elementary through high school level.",
       "highlights": [
-        "Expertise in multiple subjects including math up to a calculus level, Japanese, English, Computer Science, and more.
-",
-        "Managed student behavior and maintained discipline to create a positive learning environment.
-"
+        "Covered multiple subjects including math up to a calculus level, Japanese, English, and Computer Science.",
+        "Managed student behavior and maintained discipline to create a positive learning environment."
       ]
-    },
-
+    }
   ],
-
   "references": [
     {
       "name": "Available upon request"
