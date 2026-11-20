@@ -4,7 +4,7 @@ type: project
 image: img/Screenshot 2024-12-20 212750.png
 title: "iCompanion"
 date: 2024-12-17
-published: true
+published: false
 labels:
   - VScode
   - GitHub
